@@ -165,8 +165,8 @@ mouse-brain-ethanol-transcriptomics/
 ├── Code/
 │   ├── 01_preprocessing_differential_expression.py
 │   └── 02_knn_classifier.py
-├── images/
-└── presentation/
+├── Figures/
+└── Presentation/
     └── AUD_in_Mice_Research_Presentation.pdf
 ```
 
